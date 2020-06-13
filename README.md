@@ -5,8 +5,9 @@ Here you can find the dotfiles I use on all my computers.
 
 ## ~/.bash\_aliases
 * add colors to ls, grep and ip
+* add ll, lt and lsd
 * group cd with ls
-* doesn't remove, instead move files to trash
+* doesn't remove, instead move files to trash (via gio)
 
 ## ~/.bashrc
 * Changed prompt to be more minimalistic
@@ -19,5 +20,5 @@ Here you can find the dotfiles I use on all my computers.
 
 ## ~/.profile
 * added to $PATH: ~/bin ~/.local/bin ~/Scripts
-* set $EDITOR to vim
+* set $EDITOR to Vim
 
